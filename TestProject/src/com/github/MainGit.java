@@ -12,7 +12,7 @@ public class MainGit {
 		list.add("amit");
 		list.add("sujeet");
 		list.add("abhi");
-		list.add("prakash");
+		
 		System.out.println(list);
 	}
 }
