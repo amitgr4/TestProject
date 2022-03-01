@@ -8,6 +8,7 @@ public class MainGit {
 
 		Student student = new Student(101, "34", "amit");
 		Student student1 = new Student(102, "67", "raj");
+		
 		List<Student> list = new ArrayList<>();
 
 		list.add(student);
